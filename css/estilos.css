@@ -1069,7 +1069,7 @@ input[type=search] {
 .titulopf {
     width: 100%;
     margin-bottom: 5px;
-    background-color: rgb(248, 111, 8);
+    background-color: rgb(0, 73, 230);
     color:#ffffff;
     font-size: 14px;
     padding-top: 5px;
@@ -1097,7 +1097,7 @@ input[type=search] {
 }
 
 .codigo {
-    background-color: rgb(254, 242, 0);
+    background-color: rgb(8, 140, 161);
     border-bottom: 3px solid #ffffff;
     padding: 3px;
     font-size: 13px;
@@ -1222,7 +1222,7 @@ input[type=search] {
 
 .resultadoindi:hover {
   text-decoration: none;
-	color: #FF0000;
+	color: black;
 }
 
 .page-resultados-indicadores {
