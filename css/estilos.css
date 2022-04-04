@@ -1222,7 +1222,7 @@ input[type=search] {
 
 .resultadoindi:hover {
   text-decoration: none;
-	color: black;
+	color: #FF0000;
 }
 
 .page-resultados-indicadores {
